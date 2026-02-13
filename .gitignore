@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+generate_pdf.py
+module_summary.md
+first_project.ipynb
+instruction.txt
+nul
